@@ -10,5 +10,5 @@ Grok Pattern => %{NOTSPACE:request_date} %{IPV4:client_ip} %{IPV4:server_ip} %{I
 ```
 
 ## Argument Table
-[Citrix Netscaller Offical Argumant Table](https://docs.citrix.com/en-us/netscaler/media/argument-table.pdf)
+[Citrix Netscaller Official Argumant Table](https://docs.citrix.com/en-us/netscaler/media/argument-table.pdf)
 
